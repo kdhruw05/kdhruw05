@@ -15,5 +15,5 @@
 ![MySQL](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Ultralytics YOLOv8](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-#Github Stats
+# 📊 Github Stats
 [![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdhruw05)](https://github.com/kdhruw05/github-readme-stats)
